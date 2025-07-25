@@ -1,3 +1,3 @@
 //
-//  VAMP-IronSource-iOS-Adapter
+//  VAMP-Maio-iOS-Adapter
 //
