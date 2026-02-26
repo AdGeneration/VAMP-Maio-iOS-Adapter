@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/imobile/MaioSDK-v2-iOS",
-            exact: "2.1.6"
+            exact: "2.2.1"
         ),
     ],
     targets: [
@@ -38,7 +38,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "VAMPMaioAdapter",
-            url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPMaioAdapter-v2.1.600.zip",
-            checksum: "e3f1ce906eb09057efd30f9bae1c3391bd5785d7d08aa40f1bd63ae1ffa8e3b8")
+            url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPMaioAdapter-v2.2.100.zip",
+            checksum: "8d205ce8e7a13a66ee407d95346130d2dbd57f1af6850f57d917ee8b5e735b07")
     ]
 )
